@@ -3,7 +3,7 @@ Um podcast criado utilizando ferrametas de I.A
 # 🎙️ Curiosamente Histórico – Podcast
 
 https://climbing-zebra-775.notion.site/PAS-Podcast-AI-Studio-22145906026f800ca66cf499996b8980?source=copy_link
-
+![Image](https://github.com/user-attachments/assets/e3c53f50-0011-4adc-bdef-b776d3f394f8)
 **Curiosamente Histórico** é um podcast criado por **Janayna**, que explora os fatos mais curiosos, surpreendentes e muitas vezes desconhecidos da história da humanidade. Com uma narrativa envolvente, cada episódio revela acontecimentos que poderiam facilmente ser confundidos com ficção — mas que são 100% reais.
 
 ## 🧠 Sobre o projeto
